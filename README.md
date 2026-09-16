@@ -1,2 +1,2 @@
-# parot-radar
-SEC EDGAR trend search demo
+# Parot Radar
+Coming soon.
